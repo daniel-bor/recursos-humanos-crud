@@ -4,7 +4,7 @@
     <div class="flex flex-col items-center">
       <h1 class="text-[120px] font-extrabold text-gray-700">404</h1>
       <p class="text-2xl font-medium text-gray-600 mb-6">Pagina no Encontrada</p>
-      <RouterLink to="/" replace
+      <RouterLink to="/dashboard" replace
         class="px-4 py-2 font-medium text-white bg-indigo-500 rounded-md hover:bg-indigo-600 transition-all duration-200 ease-in-out">
         Go Home
       </RouterLink>
